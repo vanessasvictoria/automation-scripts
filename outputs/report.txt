@@ -1,0 +1,40 @@
+CSV QUICK SUMMARY
+============================================================
+Rows: 5
+Columns: 5
+
+Columns:
+name, city, role, years_experience, salary_chf
+
+Missing values (per column):
+  name: 0
+  city: 0
+  role: 0
+  years_experience: 0
+  salary_chf: 0
+
+Numeric columns summary:
+  years_experience: mean=3.00, std=1.58, min=1.00, max=5.00
+  salary_chf: mean=113800.00, std=26414.01, min=82000.00, max=145000.00
+
+Top categories (non-numeric columns):
+
+name:
+  Alex: 1
+  Jordan: 1
+  Taylor: 1
+  Morgan: 1
+  Casey: 1
+
+city:
+  Basel: 2
+  Zurich: 1
+  Geneva: 1
+  Bern: 1
+
+role:
+  Project Manager: 1
+  Data Analyst: 1
+  Product Manager: 1
+  Software Engineer: 1
+  Business Analyst: 1
